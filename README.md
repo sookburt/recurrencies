@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Recurrencies 
+A Trello-like task manager where lists of items are organised by frequency (daily, weekly, monthly, etc) and when checked off, items drops to the bottom of their containing list creating an infinite list of jobs that resurface when you've completed all the other jobs once.  Useful for tasks that recur on a regular basis but don't need to be done on a specific date.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
